@@ -1,5 +1,10 @@
-.button:hover{
-    background-color: aqua;
-    height: 50px;
-    width: 70px;
+.button:hover {
+  background-color: aqua;
+  height: 50px;
+  width: 70px;
+}
+
+html,
+body {
+  background-color: red;
 }
